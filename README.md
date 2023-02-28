@@ -16,7 +16,7 @@ Open [url](https://bnadel4.github.io/work-day-scheduler/) in web browser.
 Type descriptions of events in any of the time blocks and click the save button so that information persists.  
 
 
-![screenshot of work-day-scheduler webpage for desktop](./assets/images/work-day-scheduler-screenshotdesktop.png)
+![screenshot of work-day-scheduler webpage for desktop](./Assets/work-day-scheduler-screenshotdesktop.png)
 
 
 
